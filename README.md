@@ -9,7 +9,7 @@ If you just want to generate a consult letter based on any arbituray SOAP note.
 1. Go launcher_test_consult_letter.py
 2. Select how many times you want to test the output by modifying range()
 2. The output will be the number of times the generated consult_letter passes the test and the number of times it fails the test. If it fails, it will also print out reasons for failing.
-- **Note.** This test works with the current input. 
+- **Note.** This test works only with the current input. 
 #### Experimental features
 1. Go to launcher_comprehensive_test.py
 2. Modify SOAP note
